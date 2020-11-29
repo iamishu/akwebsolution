@@ -22,5 +22,5 @@
     "serviceworker": {
         "src": "sw.js",
         "scope": "/"
-    },
+    }
 }
